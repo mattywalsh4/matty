@@ -1,0 +1,10 @@
+M:\Task 2\New folder (2)\Math game\Math game\bin\Debug\Math game.exe.config
+M:\Task 2\New folder (2)\Math game\Math game\bin\Debug\Math game.exe
+M:\Task 2\New folder (2)\Math game\Math game\bin\Debug\Math game.pdb
+M:\Task 2\New folder (2)\Math game\Math game\obj\Debug\Math game.csproj.AssemblyReference.cache
+M:\Task 2\New folder (2)\Math game\Math game\obj\Debug\Math_game.Form1.resources
+M:\Task 2\New folder (2)\Math game\Math game\obj\Debug\Math_game.Properties.Resources.resources
+M:\Task 2\New folder (2)\Math game\Math game\obj\Debug\Math game.csproj.GenerateResource.cache
+M:\Task 2\New folder (2)\Math game\Math game\obj\Debug\Math game.csproj.CoreCompileInputs.cache
+M:\Task 2\New folder (2)\Math game\Math game\obj\Debug\Math game.exe
+M:\Task 2\New folder (2)\Math game\Math game\obj\Debug\Math game.pdb
