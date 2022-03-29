@@ -1,0 +1,12 @@
+M:\Task 2\New folder (2)\science game\science game\bin\Debug\science game.exe.config
+M:\Task 2\New folder (2)\science game\science game\bin\Debug\science game.exe
+M:\Task 2\New folder (2)\science game\science game\bin\Debug\science game.pdb
+M:\Task 2\New folder (2)\science game\science game\obj\Debug\science game.csproj.AssemblyReference.cache
+M:\Task 2\New folder (2)\science game\science game\obj\Debug\science_game.Form1.resources
+M:\Task 2\New folder (2)\science game\science game\obj\Debug\science_game.Properties.Resources.resources
+M:\Task 2\New folder (2)\science game\science game\obj\Debug\science game.csproj.GenerateResource.cache
+M:\Task 2\New folder (2)\science game\science game\obj\Debug\science game.csproj.CoreCompileInputs.cache
+M:\Task 2\New folder (2)\science game\science game\obj\Debug\science game.exe
+M:\Task 2\New folder (2)\science game\science game\obj\Debug\science game.pdb
+M:\Task 2\New folder (2)\science game\science game\obj\Debug\WindowsFormsApp1.bio100.resources
+M:\Task 2\New folder (2)\science game\science game\obj\Debug\science_game.youtube.resources
